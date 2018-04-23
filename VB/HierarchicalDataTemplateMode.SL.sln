@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HierarchicalDataTemplateMode.SL", "HierarchicalDataTemplateMode.SL\HierarchicalDataTemplateMode.SL.vbproj", "{9B65DD62-D801-48C3-AA6A-C818B42301CF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HierarchicalDataTemplateMode.SL.Web", "HierarchicalDataTemplateMode.Web\HierarchicalDataTemplateMode.SL.Web.vbproj", "{9A0AFCD3-1236-42BB-A683-1582F0B23C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B65DD62-D801-48C3-AA6A-C818B42301CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B65DD62-D801-48C3-AA6A-C818B42301CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B65DD62-D801-48C3-AA6A-C818B42301CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B65DD62-D801-48C3-AA6A-C818B42301CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0AFCD3-1236-42BB-A683-1582F0B23C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0AFCD3-1236-42BB-A683-1582F0B23C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0AFCD3-1236-42BB-A683-1582F0B23C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0AFCD3-1236-42BB-A683-1582F0B23C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
